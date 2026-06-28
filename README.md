@@ -239,10 +239,8 @@ women-safety-android-main/
 
 ## Author Details
 
-**Developer**: Vinayak  
-**GitHub**: [vinayak09](https://github.com/vinayak09)  
-**Telegram**: [@vinayak_09](https://t.me/vinayak_09)  
-**Package Name**: `com.vinayak09.wsafety`
+**Developer**: Usha Asode  
+**GitHub**: (https://github.com/usha123-boop)   
 
 ### About the Developer
 This project was created with a focus on making personal safety accessible and easy to use for everyone. The application demonstrates practical implementation of Android development combined with cloud services.
